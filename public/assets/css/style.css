@@ -1,0 +1,57 @@
+#brand-image {
+	margin-top: -10px;
+}
+
+#nav-li {
+	margin: 0 20px;
+}
+
+#heading1, #heading2, form {
+	margin: 20px 0;
+}
+
+.container-fluid {
+    background-color: white;
+}
+
+#input-form {
+    text-align: center;
+    margin-top: 5em;
+    background-color: #4B90D5;
+}
+
+#input-col {
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+#registration-form, #search-form, #signup-form, #photo-block, #info-block {
+    margin: 5em auto;
+}
+
+#photo-output-block {
+    margin: 2em 0;
+}
+
+.modal-content {
+    background-image: url('../images/ski.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.modal-body {
+    background: rgba(0, 0, 0, .5);
+}
+
+.modal-title, #modal-cancel, #modal-label {
+    color: white;
+    text-shadow: 2px 2px 8px #000000;
+}
+
+#images-div, #details-div {
+    margin: 3em 0;
+}
+
+#property-description, #new-div {
+    margin: 1em 0;
+}
